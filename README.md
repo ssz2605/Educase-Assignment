@@ -21,7 +21,7 @@ The project is split into two parts:
 ---
 
 ## Go live 
-# 🚀 https://popxtask1.netlify.app/
+# 🚀 https://educasetask1.netlify.app/
 
 ## ✨ Features
 
@@ -116,7 +116,7 @@ Follow these steps to set up the project on your local machine:
     - Frontend → [Netlify](https://www.netlify.com)  
 
 **Live API URL:**  
-https://popxtask1.netlify.app/
+https://educasetask1.netlify.app/
 
 ---
 
