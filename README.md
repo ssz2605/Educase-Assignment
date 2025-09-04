@@ -87,8 +87,8 @@ Follow these steps to set up the project on your local machine:
           
 2️⃣ Clone the Repository
 ```
-      git clone https://github.com/jatinsaxena02/popx-assignment.git
-      cd popx-assignment
+      git clone https://github.com/ssz2605/Educase-Assignment.git
+      cd Educase-Assignment
 ```
 3️⃣ Install Dependencies
 ```
